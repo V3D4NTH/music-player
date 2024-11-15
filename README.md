@@ -1,14 +1,12 @@
 # Musical-World
-Musical World is a web application that basically alow user to ulpoad their own songs and can listen to already uploaded songs and can add their song into favorite list.
+Musical World is a web application that allows users to ulpoad their own songs listen to pre uploaded songs and also add their songs into their favorite list.
 This project contains admin side as well as user side.
-User has to first register to the portal before uploading songs.
-The account verification mechanism have been included in the project to verify user authentication.
+User has to first register at the portal before uploading songs.
+The account verification mechanism has been included in the project to verify user authentication.
 
-*create database named "musical_world" at back-end and import the code tables.sql file inside databse folder to get access to database*
+*create database named "project2" at back-end and import the code tables.sql file inside databse folder to get access to database*
 
-This is basically my DBMS mini project.
-The site basically includes triggers and procedures.
-So before running the application create a trigger and a procedure at back-end(xampp or wamp any application).
+Before running the application create a trigger and a procedure at back-end(xampp or wamp any application).
 
 Code for triggers and procedure are given below.
 
@@ -35,6 +33,7 @@ username:admin@gmail.com
 password:sujith123
 ```
 #  Note: do not forget to add your email credentials validate.php and activate_email.php file so as to send email notifications
+
 
 
 
